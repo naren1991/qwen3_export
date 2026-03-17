@@ -6,3 +6,4 @@ optimum-executorch/
 optimum-executorch/*
 tmp/*
 qwen3_fp16/*
+.vscode/settings.json
